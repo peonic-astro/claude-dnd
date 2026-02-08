@@ -1,98 +1,112 @@
-# Tamwin Badgerfoot - Stout Halfling Fighter
+# Hamm Wildtongue - Human Bard
 
 ## Basic Information
-- **Class:** Fighter (Level 2)
-- **Race:** Stout Halfling
-- **Background:** Town Watch
-- **Age:** 22 (turning 23 next summer)
-- **XP:** 400/900 (Level 2 → Level 3)
+- **Race:** Human
+- **Class:** Bard (Level 1)
+- **Background:** Entertainer
+- **Age:** 24
+- **XP:** 0 / 300 (Level 2 at 300 XP)
 
 ## Ability Scores
-- **STR:** 12 (+1)
-- **DEX:** 15 (+2)
-- **CON:** 13 (+1)
-- **INT:** 8 (-1)
-- **WIS:** 12 (+1)
-- **CHA:** 10 (+0)
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR     | 7     | -2       |
+| DEX     | 14    | +2       |
+| CON     | 14    | +2       |
+| INT     | 11    | +0       |
+| WIS     | 12    | +1       |
+| CHA     | 17    | +3       |
 
 ## Combat Statistics
-- **HP:** 18/18 (Hit Dice: 2d10, used: 0)
-- **AC:** 15 (studded leather 12 + DEX +2 + Defense style +1)
-- **Speed:** 25 ft (Halfling)
+- **HP:** 10 / 10
+- **Hit Dice:** 1d8 (1 remaining)
+- **AC:** 13 (leather armor + DEX)
 - **Initiative:** +2
+- **Speed:** 30 ft
 - **Proficiency Bonus:** +2
 - **Injuries:** None
 
 ### Saving Throws
-- **STR:** +3 (proficient)
-- **DEX:** +2
-- **CON:** +3 (proficient)
-- **INT:** -1
+- **STR:** -2
+- **DEX:** +4 (proficient)
+- **CON:** +2
+- **INT:** +0
 - **WIS:** +1
-- **CHA:** +0
+- **CHA:** +5 (proficient)
 
 ## Skills
-**Proficient:**
-- **Athletics:** +3 (STR)
-- **Intimidation:** +2 (CHA)
-- **Perception:** +3 (WIS)
-- **Survival:** +3 (WIS)
+- **Acrobatics (DEX):** +4 (proficient, from background)
+- **Deception (CHA):** +5 (proficient)
+- **Perception (WIS):** +3 (proficient)
+- **Performance (CHA):** +5 (proficient, from background)
+- **Persuasion (CHA):** +5 (proficient)
 
 **Passive Perception:** 13
 
-## Racial Traits
-**Halfling:**
-- **Lucky:** When you roll a 1 on d20 for attack/check/save, reroll the die (must use new roll)
-- **Brave:** Advantage on saves against being frightened
-- **Halfling Nimbleness:** Can move through space of Medium or larger creatures
-- **Size:** Small
-- **Speed:** 25 ft
+## Proficiencies
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** Lute, flute, disguise kit
+- **Languages:** Common
 
-**Stout Halfling:**
-- **Stout Resilience:** Advantage on saves against poison, resistance to poison damage
+## Racial Traits (Human)
+- **Ability Score Increase:** +1 to all ability scores (already applied)
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common
 
 ## Class Features
-**Fighter (Level 2):**
-- **Fighting Style - Defense:** +1 AC while wearing armor (already included in AC above)
-- **Second Wind:** Bonus action to heal 1d10+2 HP (recharges on short or long rest) - **[AVAILABLE]**
-- **Action Surge:** Once per short or long rest, take one additional action on your turn. This extra action can be used to Attack, Dash, Disengage, Dodge, Help, Hide, Ready, Search, or Use an Object. - **[AVAILABLE]**
+
+### Spellcasting
+- **Spellcasting Ability:** Charisma
+- **Spell Save DC:** 13 (8 + proficiency + CHA modifier)
+- **Spell Attack Bonus:** +5 (proficiency + CHA modifier)
+- **Ritual Casting:** Can cast known bard spells with ritual tag as rituals
+- **Spellcasting Focus:** Musical instrument (lute)
+
+**Spell Slots:**
+- **1st Level:** 2 / 2 remaining
+
+### Bardic Inspiration (d6)
+You can inspire others through stirring words or music. As a bonus action, choose one creature other than yourself within 60 feet who can hear you. That creature gains one Bardic Inspiration die (d6).
+
+Within the next 10 minutes, they can roll the die and add the result to one ability check, attack roll, or saving throw. They can decide to use it after rolling the d20 but before knowing success or failure. A creature can have only one Bardic Inspiration die at a time.
+
+- **Uses:** 3 per long rest (equal to CHA modifier)
+- **Remaining:** 3 / 3
+
+## Spells
+
+### Cantrips (2 known)
+- **Vicious Mockery:** Action, 60 ft, target makes WIS save (DC 13) or takes 1d4 psychic damage and has disadvantage on next attack roll before end of its next turn
+- **Prestidigitation:** Action, 10 ft, create minor magical tricks and effects (light a candle, clean/soil objects, chill/warm/flavor food, create sensory effects, etc.) lasting up to 1 hour
+
+### 1st Level Spells (4 known)
+- **Cure Wounds:** Action, touch, heal 1d8+3 HP
+- **Heroism:** Action, touch, 1 minute (concentration), target immune to frightened and gains 3 temp HP at start of each of its turns
+- **Charm Person:** Action, 30 ft, WIS save (DC 13) or charmed for 1 hour; aware of charm when spell ends
+- **Thunderwave:** Action, 15-ft cube originating from you, CON save (DC 13) or 2d8 thunder damage and pushed 10 ft away (half damage on save, not pushed)
+
+## Background: Entertainer
+
+### Feature: By Popular Demand
+You can always find a place to perform (inn, tavern, circus, etc.). You receive free lodging and food of modest or comfortable standard as long as you perform each night. Your performances make you something of a local figure, and strangers may recognize you in areas where you've performed.
+
+### Specialty
+**Storyteller** - You weave tales of heroes and legends, keeping alive the stories of better times and inspiring others to acts of courage.
 
 ## Attacks
 > Actual weapon ownership tracked in `inventory.md`.
 
-### Shortsword
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d6+2 piercing
-- **Properties:** Finesse, light
+**Rapier (equipped):** +4 to hit (DEX + proficiency), 1d8+2 piercing damage
+**Dagger (equipped):** +4 to hit (DEX + proficiency), 1d4+2 piercing damage, thrown (range 20/60)
+**Vicious Mockery (cantrip):** See spells above
 
-### Shortbow
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d6+2 piercing
-- **Range:** 80/320 ft
-- **Properties:** Ammunition, two-handed
+## Personality & Backstory
 
-### Dagger
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d4+2 piercing
-- **Range:** 20/60 ft (thrown)
-- **Properties:** Finesse, light, thrown
+An idealistic hero who believes in using his voice and stories to make the world better. In a grim world scarred by dragon wars and loss, Hamm represents hope - using his performances to remind people of beauty and courage. His physical weakness (STR 7) means he must rely on wit, charm, and the strength of others, but his bold tongue and wild tales can inspire even the most downtrodden to action.
 
-## Background Feature
-**Watcher's Eye (Town Watch):** Familiar with urban environments and law enforcement. Can easily find watch posts, guard stations, and local authority figures. Knows how patrols work and can spot trouble in settled areas.
-
-## Backstory
-Tamwin Badgerfoot was always the biggest kid around—teased that his Ma must have run off with a dwarf, since his Pa certainly wasn't any taller than anyone else. But his size had its perks, and it helped him land a job on the Burlap town watch.
-
-Now that Ma and Pa are getting on, their small dwelling under Bagshott Row doesn't feel like it fits anymore. Of late, Tamwin's been feeling the pull of the road—like there's more of the world he doesn't know about yet—and a strange tingling inside him that means he NEEDS to know.
-
-So he's set off to explore. Da gave him a firm handshake and a carved wooden badger, and Ma packed him enough provisions to feed a small army.
-
-## Personality
-- Kind soul at heart with a strong moral compass
-- Fond of a pipe, fonder of dinner and a mug or three of ale
-- Curious about the wider world
-- Unusually tall for a halfling (source of past teasing but also confidence)
-- Protective instincts from watch experience
+Hamm earned his epithet "Wildtongue" through his fearless habit of speaking truth to power and telling stories others would rather forget. In darker times, when lies and propaganda flow freely, a bard who refuses to compromise becomes dangerous - and valuable.
 
 ## Equipment & Currency
 > **See `inventory.md`** for all equipment, gear, consumables, and currency.
@@ -104,29 +118,11 @@ So he's set off to explore. Da gave him a firm handshake and a carved wooden bad
 > **See `locations.md`** for all explored location descriptions.
 
 ## Combat Record
-**Day 1 - Bandit Ambush (Forest Clearing):**
-- Killed: Bandit 2 (2 arrow hits, 14 damage total)
-- Wounded: Bandit 1 (shortsword, 4 damage) - fled
-- Intimidated: Bandits 1 & 3 surrendered and fled
-- Damage taken: 2 bludgeoning (club to shoulder)
-- **First kill** - weighing on conscience
-
-**Day 2 - Feral Dogs (Rodrick Vane's Cabin):**
-- Killed: 4 feral dogs (1 mastiff + 3 mutts)
-  - 3 dogs killed via wolfsbane poison (tactical planning)
-  - 1 dog killed in combat (arrow hit for 5 damage, shortsword killing blow for 6 damage)
-- Party: Tamwin, Wald, Jory, Cole, Aldric (5 total)
-- Damage taken: None
-- Tactics: Stealth approach, poisoned bait, fire control, coordinated attacks
+*No encounters yet.*
 
 ## Notable Achievements
-- **Day 1:** Rescued Wellan Cray (merchant) from bandits on Old Road
-- **Day 1:** First combat encounter - survived and showed mercy
-- **Day 2:** Solved the Millstone Murders investigation in one day
-- **Day 2:** Led successful hunting party with zero casualties
-- **Day 2:** Earned reputation for fairness by sharing quest reward with party members
-- **Day 2:** LEVEL UP - Reached Fighter Level 2
+*None yet.*
 
 ---
 
-*Last Updated: Session 2 - Day 2 morning*
+*Last Updated: Session 0 - Character Creation*
