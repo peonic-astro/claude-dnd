@@ -54,19 +54,71 @@ To see all campaigns:
 git branch -v
 ```
 
+## Daily Workflow
+
+### Starting a Session
+
+**On the same device as last time:**
+```bash
+git checkout hamm-campaign  # or tamwin-campaign
+git pull  # Get any updates from other devices
+# Now you're ready to play
+```
+
+**On a different device:**
+```bash
+cd /path/to/Krynn
+git checkout hamm-campaign  # or tamwin-campaign
+git pull  # Sync latest progress
+# Now you're ready to play
+```
+
+### During/After a Session
+
+**Save progress frequently:**
+```bash
+git add -A
+git commit -m "Session 1: Explored Ashenfell crypts"
+git push
+```
+
+**Quick save (combines add, commit, push):**
+```bash
+git add -A && git commit -m "Session 1 progress" && git push
+```
+
+### Switching Campaigns Mid-Session
+
+**Save current campaign first:**
+```bash
+git add -A && git commit -m "Hamm Session 1 - paused at crypt entrance" && git push
+git checkout tamwin-campaign
+git pull
+# Now playing Tamwin's campaign
+```
+
 ## Syncing Across Devices
 
-On your first device:
+### First Device (after playing):
 ```bash
 git add -A
 git commit -m "Session X progress"
 git push
 ```
 
-On your second device:
+### Second Device (before playing):
 ```bash
 git checkout campaign-name
 git pull
+# Ready to continue where you left off
+```
+
+### Clone on New Device:
+```bash
+git clone https://github.com/peonic-astro/tamwin.git Krynn
+cd Krynn
+git checkout hamm-campaign  # or tamwin-campaign
+# Ready to play
 ```
 
 ## Updating Shared Resources
