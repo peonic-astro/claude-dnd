@@ -1,3 +1,14 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Repository Structure
+
+- `main` branch: Template, shared resources (CLAUDE.md, DND.SRD.Wiki/, README.md)
+- Campaign branches (e.g. `tamwin-campaign`, `hamm-campaign`): Independent campaign data
+- Check `git branch` to confirm which campaign is active before starting
+- Campaign files only exist on campaign branches, not on main
+
 # Dungeon Crawl Campaign
 
 ## Critical Rules (READ FIRST)
@@ -154,6 +165,7 @@ Each file has ONE job. Never duplicate data across files.
 | `npcs.md` | Known NPCs (player knowledge only) | When PC learns new NPC info |
 | `names.md` | Name registry to prevent duplicates | When any named NPC is introduced |
 | `locations.md` | Visited location descriptions | When new locations are explored |
+| `adventure_style.md` | Tone, pacing, difficulty guidance | When style preferences change |
 | `session_X_notes.md` | Active session tracking (working memory) | Every 5-10 exchanges during play |
 | `dm_only/story_prep.md` | ALL secrets, plots, NPC agendas, plans | Between sessions, via Task agent only |
 
@@ -186,7 +198,7 @@ This includes:
 - Story arc structure and endpoint
 
 ### Rules
-- **NEVER read or write `dm_only/` files directly.** Always use the **Task tool with a general-purpose agent.**
+- **NEVER read or write `dm_only/` files directly.** Always use the **Task tool with `subagent_type="general-purpose"`.**
 - **NEVER display contents of `dm_only/` files in the conversation.**
 - Before every change, the agent must **backup** `story_prep.md` to `story_prep_backup.md` first.
 - Prep situations, not plots. Know what's happening in the world; let player choices determine outcomes.
