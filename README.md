@@ -1,168 +1,150 @@
-# Krynn D&D Campaign Repository
+# Claude as Your Dungeon Master
 
-This repository manages multiple D&D campaigns using git branches. Each campaign is isolated in its own branch with complete character sheets, world state, inventory, and session notes.
+Claude is a genuinely good DM. Not "good for an AI" -- actually good. It tracks NPCs with their own agendas, runs tactical combat on ASCII maps with proper 5e rules, keeps secret plot notes you can't see, and writes prose that lands somewhere between Joe Abercrombie and a really well-prepped human DM who never cancels on game night. This repo is a ready-to-go template for running full D&D 5e campaigns with Claude Code as your Dungeon Master.
 
-## Branch Structure
+## What You Need
 
-### `main` - Template & Shared Resources
-- `CLAUDE.md` - DM instructions and campaign rules (shared across all campaigns)
-- `DND.SRD.Wiki/` - D&D 5e SRD rules reference (shared)
-- Template files for starting new campaigns
+- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** -- Anthropic's CLI tool. This is how you talk to Claude in your terminal.
+- **A GitHub account** -- campaigns are tracked with git. Free account is fine.
+- That's it. No dice, no minis, no scheduling conflicts.
+
+## Quick Start
+
+### 1. Fork and Clone
+
+Fork this repo on GitHub, then clone your fork:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/claude-dnd.git
+cd claude-dnd
+```
+
+### 2. Create a Campaign Branch
+
+Each campaign lives on its own branch. Main stays clean as the template.
+
+```bash
+git checkout -b my-campaign
+git push -u origin my-campaign
+```
+
+### 3. Start Playing
+
+Launch Claude Code in the repo directory:
+
+```bash
+claude
+```
+
+Claude will read the `CLAUDE.md` instructions and know it's your DM. Tell it about the character you want to play -- name, race, class, backstory, whatever you've got. Claude will set up your character sheet, build the opening scene, and you're off.
+
+Your first message can be as simple as:
+
+> I want to play a halfling rogue named Pip who grew up picking pockets in a harbour city.
+
+Claude takes it from there.
+
+## How Campaigns Work
+
+### One Branch Per Campaign
+
+The `main` branch is the template. It contains:
+- `CLAUDE.md` -- all the DM instructions, rules, and protocols
+- `DND.SRD.Wiki/` -- the complete 5e SRD rules reference
 - This README
 
-### Campaign Branches
-Each active campaign lives in its own branch:
+When you create a branch and start playing, Claude generates campaign files as you go. Each branch is a self-contained campaign with its own characters, world, and story.
 
-- **`hamm-campaign`** - Hamm Wildtongue (Human Bard), gritty dungeon crawl in dark fantasy Krynn
-- **`tamwin-campaign`** - Tamwin Badgerfoot (Halfling Fighter), exploration and investigation
+### Everything is Markdown
 
-## Starting a New Campaign
+Campaign state lives in plain text files that Claude reads and updates as you play:
 
-1. Create a new branch from main:
-   ```bash
-   git checkout main
-   git checkout -b new-campaign-name
-   ```
+| File | What It Tracks |
+|------|---------------|
+| `character.md` | Your character sheet -- stats, abilities, backstory |
+| `inventory.md` | Equipment, currency, consumables |
+| `world_state.md` | The current state of everything (this is the source of truth) |
+| `adventure_log.md` | Session-by-session recaps of what happened |
+| `npcs.md` | NPCs you've met and what you know about them |
+| `locations.md` | Places you've been |
+| `names.md` | Name registry so the DM doesn't reuse names |
+| `adventure_style.md` | Tone and style preferences for your campaign |
+| `dm_only/` | The DM's secret notes -- plot threads, NPC agendas, hidden information |
 
-2. Set up character files:
-   - `character.md` - Character sheet
-   - `inventory.md` - Equipment and currency
-   - `world_state.md` - Current campaign state
-   - `adventure_log.md` - Session recaps
-   - `npcs.md` - Known NPCs
-   - `names.md` - Name registry
-   - `locations.md` - Visited locations
-   - `adventure_style.md` - Tone and style guide
-   - `dm_only/story_prep.md` - DM secrets (edit via Task agent only)
+### Git is Your Save System
 
-3. Commit and push:
-   ```bash
-   git add -A
-   git commit -m "Initialize [Character Name] campaign"
-   git push -u origin new-campaign-name
-   ```
-
-## Switching Between Campaigns
-
-To switch to a different campaign:
-```bash
-git checkout campaign-name
-```
-
-To see all campaigns:
-```bash
-git branch -v
-```
-
-## Daily Workflow
-
-### Starting a Session
-
-**On the same device as last time:**
-```bash
-git checkout hamm-campaign  # or tamwin-campaign
-git pull  # Get any updates from other devices
-# Now you're ready to play
-```
-
-**On a different device:**
-```bash
-cd /path/to/Krynn
-git checkout hamm-campaign  # or tamwin-campaign
-git pull  # Sync latest progress
-# Now you're ready to play
-```
-
-### During/After a Session
-
-**Save progress frequently:**
-```bash
-git add -A
-git commit -m "Session 1: Explored Ashenfell crypts"
-git push
-```
-
-**Quick save (combines add, commit, push):**
-```bash
-git add -A && git commit -m "Session 1 progress" && git push
-```
-
-### Switching Campaigns Mid-Session
-
-**Save current campaign first:**
-```bash
-git add -A && git commit -m "Hamm Session 1 - paused at crypt entrance" && git push
-git checkout tamwin-campaign
-git pull
-# Now playing Tamwin's campaign
-```
-
-## Syncing Across Devices
-
-### First Device (after playing):
-```bash
-git add -A
-git commit -m "Session X progress"
-git push
-```
-
-### Second Device (before playing):
-```bash
-git checkout campaign-name
-git pull
-# Ready to continue where you left off
-```
-
-### Clone on New Device:
-```bash
-git clone https://github.com/peonic-astro/tamwin.git Krynn
-cd Krynn
-git checkout hamm-campaign  # or tamwin-campaign
-# Ready to play
-```
-
-## Updating Shared Resources
-
-If you update `CLAUDE.md` or other shared files on `main`, merge them into campaign branches:
+Every commit is a save point. Claude will save progress at natural breakpoints (end of a session, after a big fight, at a long rest), but you can also commit manually whenever you want:
 
 ```bash
-git checkout main
-# Make changes to CLAUDE.md
-git commit -am "Update DM instructions"
-git push
-
-git checkout hamm-campaign
-git merge main
-git push
+git add -A && git commit -m "Session 3: Escaped the goblin caves" && git push
 ```
+
+Want to undo a terrible decision? (In the game, obviously.) You can roll back to any previous commit. Git gives you unlimited save slots with perfect recall.
+
+### Multiple Campaigns
+
+Switch between campaigns by switching branches:
+
+```bash
+git checkout my-other-campaign
+```
+
+Each campaign is completely independent. Play a gritty dungeon crawl on one branch and a lighthearted tavern romp on another.
 
 ## File Structure
 
-Each campaign branch contains:
+```
+claude-dnd/
+  CLAUDE.md              # DM instructions and rules (the brains)
+  DND.SRD.Wiki/          # 5e SRD -- spells, monsters, classes, the works
+  README.md              # You are here
 
-| File | Purpose |
-|------|---------|
-| `character.md` | PC stats, abilities, backstory |
-| `inventory.md` | Equipment, currency, consumables |
-| `world_state.md` | Authoritative current state |
-| `adventure_log.md` | Session recaps |
-| `adventure_style.md` | Tone, pacing, difficulty |
-| `npcs.md` | Known NPCs (player knowledge) |
-| `names.md` | Name registry |
-| `locations.md` | Visited locations |
-| `session_X_notes.md` | Active session notes (temporary) |
-| `dm_only/story_prep.md` | Secrets, plots, NPC agendas |
-
-See `CLAUDE.md` for complete campaign management rules.
+  # These appear on campaign branches after you start playing:
+  character.md           # Your character sheet
+  inventory.md           # Gear and gold
+  world_state.md         # Current state of the world
+  adventure_log.md       # What happened each session
+  npcs.md                # People you've met
+  locations.md           # Places you've been
+  names.md               # Name registry
+  adventure_style.md     # Campaign tone and style
+  session_X_notes.md     # Working notes for the current session
+  dm_only/               # DM secrets (no peeking)
+    story_prep.md        # Plot threads, NPC agendas, hidden plans
+```
 
 ## Tips
 
-- **Commit frequently** during sessions to avoid losing progress
-- **Always pull before starting** a session on a different device
-- **Keep main branch clean** - only shared resources, no campaign-specific content
-- **Each campaign is independent** - changes in one don't affect others
-- **Use descriptive commit messages** - "Session 3: Arrived in Brackford" not "Update files"
+- **Commit often.** Git is your save system. More commits means more points you can rewind to if something goes sideways.
+
+- **Don't peek in `dm_only/`.** Seriously. Claude uses a separate sub-agent to read and write its secret notes so they never appear in your conversation. If you go reading `story_prep.md` you're only spoiling it for yourself.
+
+- **Talk to Claude like a human DM.** Use quotes for dialogue: *"I don't trust you, innkeeper."* Use plain text for actions: *I search the room for hidden doors.* Use square brackets for out-of-character stuff: *[Can we retcon that last bit?]*
+
+- **Claude won't railroad you.** The DM instructions are explicitly designed to prep situations, not plots. Claude knows what's happening in the world and lets your choices determine where the story goes.
+
+- **Combat is tactical.** Claude draws ASCII maps, tracks positioning, and runs proper 5e combat with initiative, opportunity attacks, cover, the lot. Tell it where you move and what you do each turn.
+
+- **The world doesn't scale to you.** Some fights can't be won at level 1. Claude will drop hints when something is out of your league -- retreating is always an option.
+
+- **Update the template if you improve it.** If you tweak `CLAUDE.md` on main and want those changes in an existing campaign, just merge main into your campaign branch:
+  ```bash
+  git checkout my-campaign
+  git merge main
+  ```
+
+## Customising the DM
+
+The `CLAUDE.md` file controls everything about how Claude runs the game. It's well-commented and designed to be tweaked. Want a lighter tone? Edit the Tone & Style section. Want different house rules? Add them. Want to change how combat pacing works? It's all in there.
+
+The current defaults lean toward dark, gritty fantasy in the style of Joe Abercrombie and David Gemmell -- morally grey NPCs, real consequences, no easy wins. But that's just a starting point.
+
+## Credits
+
+- **D&D 5e SRD** provided under the Open Gaming License. The `DND.SRD.Wiki/` directory contains the [5e SRD in markdown format](https://github.com/OldManUmby/DND.SRD.Wiki).
+- Built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Anthropic.
+- Created by [Koz](https://github.com/peonic-astro) after discovering that Claude is genuinely excellent at running tabletop RPGs.
 
 ---
 
-*For questions about Claude Code DM system, see CLAUDE.md*
+*"Roll for initiative."*
