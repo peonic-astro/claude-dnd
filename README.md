@@ -119,7 +119,15 @@ claude-dnd/
 
 - **Don't peek in `dm_only/`.** Seriously. Claude uses a separate sub-agent to read and write its secret notes so they never appear in your conversation. If you go reading `story_prep.md` you're only spoiling it for yourself.
 
-- **Talk to Claude like a human DM.** Use quotes for dialogue: *"I don't trust you, innkeeper."* Use plain text for actions: *I search the room for hidden doors.* Use square brackets for out-of-character stuff: *[Can we retcon that last bit?]*
+- **Talk to Claude like a human DM.** There are three modes of communication:
+
+  | Format | Meaning | Example |
+  |--------|---------|---------|
+  | `"Quoted text"` | Your character speaking aloud | *"I don't trust you, innkeeper."* |
+  | Plain text | Actions, thoughts, or directions | *I search the room for hidden doors.* |
+  | `[Square brackets]` | Out-of-character (OOC) | *[Can we retcon that last bit?]* |
+
+  Square brackets are your out-of-character channel. Use them to ask rules questions, request a recap, pause the story, or give feedback. Claude will acknowledge your OOC message and **stop** -- it won't continue the story until you send an in-character action. This means you can think out loud, ask questions, or take a break without accidentally pushing the narrative forward.
 
 - **Claude won't railroad you.** The DM instructions are explicitly designed to prep situations, not plots. Claude knows what's happening in the world and lets your choices determine where the story goes.
 
