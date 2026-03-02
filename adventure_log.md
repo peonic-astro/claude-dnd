@@ -66,3 +66,44 @@ The party returned to the village. Coin argued over in Aldyn's kitchen. Prisoner
 - Quest completion (bandit problem resolved): 50 XP
 - **Total: 200 XP**
 - **Running total: 200 / 300 (Level 2)**
+
+---
+
+## Session 2 — The Morning After & The Road East
+
+**Location:** Aldyn's village → The Boot inn (river road east)
+**Time:** Dawn to midday, late autumn
+**Party:** Eric Snow, Berengar
+
+### What Happened
+
+Eric woke in Aldyn's barn, letter on his chest, the woman (Mira) watching him from across the room. He interrogated her directly. She confirmed she was hired through Crane's steward (Ryck) in Saltpans — find a grey roan horse with one white sock, one hedge knight named Snow, bring him to Stony Sept by the new moon. Not Crane's keep — Stony Sept specifically, neutral ground. She doesn't know why. She traded the information openly in exchange for Eric speaking on her behalf to the village.
+
+She also let slip that Aldyn knew her — she's blood, Aldyn's cousin's daughter. Grown up trouble, gone away trouble, come back as more of it. Aldyn confirmed it to Eric privately, called his silence cowardice, and said he'd answer for her.
+
+Eric went to Aldyn, paid his 2 silver, sold the cob to Tam Wren for 4 silver (2 more owed in spring), and gave the dun mare outright to Edwyn Hobb. Edwyn looked like he'd been struck by a good kind of lightning. Tam Wren's daughter named the cob Biscuit with the seriousness of a child who understands the weight of things.
+
+The village gathered. Reeve Haddon — hit twice by the bandits, the most aggrieved — pushed back on leniency. Eric said he'd little stomach for hanging women, that Harwick was the one fondest of thieving and Harwick was dead already. Haddon accepted it: Mira works off the debt to every farm she robbed, under Aldyn's watch. Pate's identity surfaced — Marta Wrenby's nephew, coerced via a debt to someone in Fairmarket. Marta came for him. The reunion was not warm, but it was hers to have.
+
+Before leaving, Eric searched Ser Aldric's saddlebags properly. Found the obvious contents. Found, hidden in the lining with fine new stitching, a letter — signed A.P. It described a child moved from Lys before a fleet came, placed with a woman named Essara at an address in Leyrmont. Something hidden at "the place you know." A document. If Aldric was dead when the reader found it, the writer trusted the reader to know what to do. Aldric was dead. Eric folded the letter and put it with the Crane letter, against his chest.
+
+He offered Berengar the road east. Berengar was already packed.
+
+They rode out mid-morning — Eric on the roan gelding (unnamed so far), Berengar on Doubt. The roan tested Eric for about thirty seconds and then gave it up. By midday they'd reached a village inn on the river road: The Boot. Stopped for food, ale, and a moment out of the cold.
+
+**Session ended:** Midday. The Boot inn, river road east. Stony Sept approximately a day and a half ahead.
+
+### Key Outcomes
+- Mira released to Aldyn's custody — will work off the debt to every farm robbed
+- Pate returned to Marta Wrenby — will provide information on the bandit route to help return stolen coin
+- Crane decision made: ride to Stony Sept, meet on his terms but on neutral ground
+- Aldric's hidden letter found — a second secret now against Eric's chest
+- Edwyn Hobb given the dun mare; cob sold to Tam Wren (Biscuit)
+- Berengar riding with Eric
+- Eric took possession of the roan gelding as second horse/spare mount
+
+### XP Earned
+- Quest resolution (prisoners, village decision): 50 XP
+- Discovery (Aldric's hidden letter): 25 XP
+- **Total this session: 75 XP**
+- **Running total: 275 / 300 (Level 2)**

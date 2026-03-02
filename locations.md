@@ -24,6 +24,14 @@
 
 ---
 
+### The Boot — Inn
+- **Region:** River road east, approximately half a day from Aldyn's village
+- **Description:** Low-ceilinged, warm. A painted boot as the sign. Fire going well. A dog asleep under the bar. Honest food — dark bread, hard cheese, yesterday's stew. Local wine, thin but warm.
+- **Notable:** First stop on the road to Stony Sept. Session 2 ended here.
+- **Landlord:** Narrow man, sixties. Both eyes pointing the right direction (Berengar's memory of a wall-eyed landlord was off, or the man's changed).
+
+---
+
 ## Known Of (Not Visited)
 
 ### Stony Sept

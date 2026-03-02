@@ -1,57 +1,61 @@
 # World State — Eric Snow Campaign
 
-*Last updated: End of Session 1*
+*Last updated: End of Session 2*
 
 ## Current Situation
 - **PC:** Ser Eric Snow, Hedge Knight, Level 1
-- **Location:** Aldyn's barn, village near the Muddy Wheel, Riverlands
-- **Time:** Dawn. Late autumn.
-- **Session:** 1 complete
+- **Location:** The Boot inn, river road east — half a day from Aldyn's village, approximately a day and a half from Stony Sept
+- **Time:** Midday. Late autumn.
+- **Session:** 2 complete
 
 ## Eric's Status
 - **HP:** 12/12
 - **Second Wind:** Available
-- **Condition:** Rested. Clear-headed.
-- **XP:** 200 / 300 (close to Level 2)
+- **Condition:** Rested. On the road.
+- **XP:** 275 / 300 (25 from Level 2)
 
 ## Coin
-- **Starting this session:** 3 silver stags, 7 copper stars
-- **Payment owed (not yet collected):** 2 silver stags
-- **Current:** 3 silver stags, 7 copper stars + 2 owed = effectively 5 silver, 7 copper
+- **Current:** 9 silver stags, 7 copper stars
+- **Owed to Eric:** 2 silver stags from Tam Wren (payable spring)
 - *See inventory.md for full details*
 
 ## Active Threads
 
 ### Immediate
-- Collect payment from Aldyn (2 silver stags)
-- Decide what to do with the woman prisoner
-- Decide what to do with the boy (Pate)
-- Interrogate the woman — what else does she know about Crane?
+- Ride to Stony Sept — meet Lord Crane's arrangement (new moon deadline: ~6 days remaining)
+- Two letters against Eric's chest — the Crane letter and Aldric's hidden letter
 
 ### The Crane Thread (ACTIVE)
 - Lord Crane sent the woman's band to find Eric Snow
 - Letter found: *"The Snow bastard is not to be harmed. Crane wants him found, not broken."*
-- Crane's keep is approximately two days east
-- Berengar knows about the letter. Nobody else does.
+- Stony Sept is the meeting point — neutral ground, not Crane's keep
+- Crane's steward Ryck arranged it. He knew about Doubt (grey roan, one white sock)
 - Eric does not know why Crane wants him
+- New moon deadline: approximately 6 days remaining
 
-### Background
-- Ser Aldric Pyke's saddlebags have not been fully searched
-- The letter mentions Stony Sept and a deadline (new moon)
+### Aldric's Letter Thread (NEW — DORMANT)
+- Hidden letter found in Aldric's saddlebag lining, signed A.P.
+- Concerns a child moved from Lys, a woman named Essara in Leyrmont
+- Something hidden at "the place you know"
+- If Aldric was dead when the reader found it, reader will know what to do
+- Eric has no context yet. Thread is quiet but live.
+
+### Resolved This Session
+- Bandit prisoner situation resolved: Mira in Aldyn's custody (working off debt), Pate returned to Marta Wrenby
+- Stolen coin recovery: Pate will guide villagers to other farms robbed by Harwick's band
+- Eric's 2 silver payment collected from Aldyn
 
 ## Key Facts
-- Eric has been a knight for seven days
-- He is known to nobody of consequence in the Riverlands — yet
-- Berengar (Seagard veteran) is a significant ally. Trust is early but earned.
-- Four horses acquired from bandit camp
-- Knight's sword with Crane crest in Eric's possession
-- Letter from Lord Crane in Eric's possession (kept hidden from Aldyn)
+- Eric has been a knight for approximately ten days
+- Berengar is riding with Eric to Stony Sept — already packed when asked
+- The roan gelding is Eric's new second horse (unnamed)
+- Aldyn knows Mira is his blood. He's accepted responsibility for her.
+- Reeve Haddon agreed to the compromise — Mira works off the debt
+- Marta Wrenby has Pate back. That relationship has some repairing to do.
 
-## People in the Barn Right Now
-- Eric (asleep/waking)
-- The woman (bound, awake, waiting)
-- Pate, the boy (bound, asleep)
-- Edwyn Hobb (on watch, asleep sitting up)
+## People On The Road
+- Eric (riding the roan gelding)
+- Berengar (riding Doubt)
 
 ## Files Reference
 - Character stats: `character.md`
