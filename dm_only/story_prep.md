@@ -3,148 +3,162 @@
 
 ---
 
-## IMMEDIATE ARC: The Bandit Problem
+## SESSION 1 RECAP (DM Reference)
 
-### Overview
-A band of 4-6 deserters from a lord's disbanded army have set themselves up as road bandits on the eastern road out of the village near The Muddy Wheel. They are shaking down two farming families: the Aldyn family and the Wrenby family (a widow, Marta Wrenby, with two teenage children).
+Eric was hired by two farming families (Aldyn and Wrenby) to deal with a band of deserter bandits operating out of the Ashwood. He played it tactically: scouted first, killed a sentry quietly in the woods, knocked out the horse boy (Pate) non-lethally, then Berengar arrowed the big man (Harwick) and Eric charged the camp. One bandit dove into the fire and survived briefly — Eric mercy-killed him and said Old Northern prayers over him. Strong character moment. The woman was captured alive and did not resist once it was clearly over.
 
-The bandits camp in a clearing in the Ashwood, roughly 3 miles east of the tavern, off a deer trail that branches south from the road. A PC scouting carefully (DC 13 Perception or DC 11 Survival to track) can locate the camp before engaging.
+Camp was searched. Eric found a letter. He read it. He now knows Lord Crane is looking for him. Berengar noticed the letter and its significance. Nobody else knows. Camp was burned. Four horses acquired. Pate is captured, alive, tied up.
 
----
+Session ended: Eric sleeping in the barn, dawn breaking, letter against his chest.
 
-### The Bandits
-
-**The Group:**
-- Harwick (leader): Former sergeant-at-arms, served House Bracken before the unit was disbanded following a minor border skirmish. Competent, pragmatic, not cruel. He rationalises what they're doing as "taxing" not robbing. He's tired but not ready to give up yet.
-- 3 rank-and-file deserters: Rough men, not stupid. They'll fight if cornered, but none of them are true believers. If Harwick retreats or falls, they scatter.
-- Pate (see Hidden NPC below)
-- One additional thug (non-notable, can be killed or fled without consequence)
-
-**Harwick's True Position:**
-He's a pragmatist. He doesn't want to die in a muddy Riverlands ditch. If Eric beats him badly, offers him a real way out, or makes it clear the fight isn't worth it, Harwick will negotiate. His price for leaving: safe passage and enough coin to get to a city where he can find honest work (or dishonest work with less exposure). He will not betray his men — he'll take them with him or leave them free to scatter.
-
-If Eric offers nothing, Harwick just wants to survive. He'll yield when at half HP or below.
-
-Possible outcomes:
-- Killed in combat
-- Driven off (he leaves, bandits disperse, problem solved)
-- Negotiated out (Eric gives him a way out — Harwick respects competence)
-- Recruited (extremely unlikely at this stage, but possible long-term if Eric becomes someone worth following)
+**Eric's XP after Session 1: 200 / 300 (close to Level 2)**
 
 ---
 
-### The Farmers
+## ACTIVE THREAD: Lord Edwyn Crane (NOW HOT — Eric has the letter)
 
-**Aldyn (50s, stubborn, proud):**
-Owns the larger of the two farms. He's been paying the bandits once but won't again. He's been quietly sharpening an old billhook and telling his wife he'll "sort it himself." His plan is suicidal — he'd walk up to the camp alone and get himself killed or beaten badly. He hasn't told his wife Bessa what he intends.
+### Status Change
+The Crane thread is no longer a slow burn. Eric has the letter. He knows he's being sought. The question is no longer "will Eric learn about Crane" — it is "what does Eric do about it, and how fast does Crane escalate."
 
-If Eric doesn't move on this soon, Aldyn will do something stupid within 2-3 in-game days. If he gets hurt, the wife will blame Eric (or whoever failed to help) and refuse further cooperation.
+### What the Letter Said (Eric already knows this)
+- Crane is looking for him specifically
+- There is coin in it — Crane is willing to pay well
+- The instruction to the bandits was: find him, bring him to Stony Sept
+- The new moon deadline is approximately 8 days from end of Session 1
 
-**Marta Wrenby (widow, 40s, frightened but sharp):**
-Running the farm since her husband died two winters past. Her teenage son Hadden tries to act the man of the house and is watching Aldyn's stubbornness as a model. She is the better source of information about the bandits — she's been watching them more carefully than Aldyn has. She'll share what she knows if Eric treats her with respect and doesn't talk down to her.
+### The Woman (Captured Bandit — Interrogation Pending in Session 2)
+She was hired through an intermediary in a Stony Sept tavern. She knows:
+- Crane's name
+- That Eric was specifically requested (not just any hedge knight)
+- That Crane is willing to pay well
+- That the arrangement was "find him, bring him to Stony Sept"
 
-**Reward:**
-The farmers combined can offer 8 silver stags. Aldyn has 5, Marta has 3. Both will also provide lodging and meals (worth noting for a nearly-broke Eric). There's no great treasure here. This is a reputation-building encounter, not a loot encounter.
+She does NOT know:
+- Why Crane wants Eric — she wasn't told
+- Anything about Crane's bloodline interest or his Maester
+- Anything useful about Crane's household beyond the name
 
----
+She will give this up without much pressure once it's clear resistance is pointless. She's pragmatic, not loyal. She'll bargain with information if she thinks it helps her stay alive.
 
-## SECONDARY THREAD: Lord Edwyn Crane
+### Lord Crane's True Situation (DM Eyes Only)
+Crane has heard a rumour — passed through a Maester's letter chain — that Ser Aldric Pyke's squire-turned-knight may carry a bloodline claim useful to Crane in his dispute with Lord Vance. It is a thin legal thread. Crane is desperate enough to pull it.
 
-### Overview
-Lord Edwyn Crane holds a minor keep called Stoneroost, two days east on the road. He is the petty lord nominally responsible for the stretch of road where the bandits are operating. He knows about the problem and has been too proud to advertise it — he's waiting for it to resolve itself, which it won't.
+He does not know if it is true. He wants Eric in front of his Maester so Bowen can assess the claim. If it checks out, Crane will offer Eric a place as household knight and use his name formally in the dispute. If it doesn't, Crane will be embarrassed — but not dangerous about it. He is not a man who makes enemies needlessly. He just misjudged.
+
+This means Crane's interest in Eric is not hostile. He wants to talk. The bandits were his clumsy attempt to locate and deliver Eric — he didn't anticipate how it would come across (or maybe he didn't think about Eric's perspective at all, which is very Crane).
 
 ### Crane's Character
-- Mid-50s, fastidious, wears the Crane sigil (a silver crane on blue) even on his riding clothes.
-- Proud in a small-minded way: obsessed with dignity and proper form. He'll bristle at informality.
-- Not cruel. He doesn't mistreat smallfolk, he just ignores them.
-- He desperately needs a hedge knight or similar to fill his household's gap. His previous man-at-arms retired last year. He won't ask for help directly — he'll frame any arrangement as doing Eric a favour.
+- Mid-50s, fastidious, wears the Crane sigil (silver crane on blue) even on his riding clothes
+- Proud in a small-minded way: obsessed with dignity and proper form. Bristles at informality.
+- Not cruel. Doesn't mistreat smallfolk — just ignores them.
+- Desperately needs a competent man in his household. His previous man-at-arms retired last year. He won't ask for help directly — he'll frame any arrangement as doing Eric a favour.
 
-### Crane's Maester
-Maester Bowen is the one who'll actually be useful. He's heard about the bandits through the network of maesters and from travelers. If Eric asks around, the maester at the nearest village (or at Stoneroost itself if Eric travels there) is the link to Crane. Bowen is practical where Crane is not — he'll give Eric straight information.
+### Maester Bowen
+Practical where Crane is not. Will give Eric straight information if approached directly. He's the one who found the bloodline rumour and brought it to Crane. He believes it is worth investigating — but he's also honest enough to admit it may come to nothing.
 
-### The Offer
-If Eric resolves the bandit situation (especially if it's done cleanly and without embarrassing Crane by making it obvious he'd failed to deal with it), Crane will offer temporary paid service:
-- 2 gold dragons per month
-- Room and board at Stoneroost
-- Not sworn service — Crane doesn't have the standing to demand oaths from a knight and knows it
+### The Vance Problem (Slow Burn — Still Active)
+Lord Wyman Vance of Atranta is making noises about an old grazing rights dispute. Crane is in the weaker position. If Eric takes Crane's coin, within 2-4 sessions Crane will ask Eric to ride the disputed boundary "just to make our position clear." This is the first step toward being asked to choose a side.
 
-**This is a meaningful offer for a broke hedge knight.** Eric should feel the pull of it even if Crane is annoying.
+Vance's actual position: his claim has some merit but is mostly opportunistic. He's testing Crane, not committed to escalation yet.
 
-### Hidden Agenda: The Vance Problem
-Lord Wyman Vance of Atranta (a larger Riverlands house, more significant than Crane) has been making noises about an old grazing rights dispute. Crane believes Vance is preparing to push the matter formally — possibly with armed pressure on the boundary. Crane is in the weaker position and knows it. He's hoping to either find allies, fortify quietly, or find a clever resolution.
+### World Events Ticker — Crane Thread
+The new moon (Stony Sept deadline from the letter) is approximately 8 days away from end of Session 1.
 
-If Eric takes Crane's coin, within 2-4 sessions Crane will ask Eric to ride the disputed boundary with him "just to make our position clear." This is the first step toward being asked to choose a side. Eric is a knight — Crane will expect him to act like one, which means backing his lord's claim.
+Crane's men have failed to deliver. Crane will be wondering what happened. If Eric doesn't move toward Crane soon:
+- Day 3-4: Crane sends a rider to check what's happening. Rider won't find the camp (it's burned).
+- Day 6-7: Crane becomes genuinely concerned — either the men failed, or something else is wrong.
+- Day 9-10: Crane sends someone better — a man-at-arms, not just a message. Or comes himself (his pride will resist this, but the deadline pressure is real).
 
-The Vance situation should not resolve quickly. It is a slow-burn political pressure that eventually forces Eric to either:
-- Support Crane (risk conflict with a bigger house)
-- Refuse/mediate (Crane will feel betrayed)
-- Find a creative solution (requires investigation and possibly a third party)
-
-DM should decide Vance's actual position before that arc heats up. For now: Vance's claim has some merit but is mostly opportunistic.
+If Eric rides toward Stony Sept or Stoneroost, he may cross paths with this rider or messenger.
 
 ---
 
-## HIDDEN NPC: Pate
+## SECONDARY THREAD: The Letter in Ser Aldric's Saddlebags
 
-**Who he is:**
-Pate is 19 years old. He is Marta Wrenby's nephew — the son of her brother Rolf, who farms further east. Pate was taken by Harwick's group six weeks ago when they caught him alone on the road and gave him a choice: ride with them or be beaten and left. He chose to ride with them. He hates it. He hasn't written home because he's ashamed.
+### Status
+Eric has NOT found this yet. Do not rush it. Let it surface naturally — perhaps Doubt knocks the bags over, or Eric finally goes through them properly before leaving the village. The lining is stitched, not obviously concealed.
 
-**In the encounter:**
-Pate will not be immediately recognisable as connected to the farming families unless Eric asks specific questions after the fight. He's young, keeps to the back of the group, and doesn't attack unless cornered. If Eric shows mercy — especially if he takes prisoners rather than killing everyone — Pate will break down.
-
-A DC 12 Insight check during combat or the aftermath will reveal that one of the bandits looks out of place: too young, not properly armed, not acting like a hardened man.
-
-If Pate is freed and returned to Marta, the emotional payoff is significant. She didn't know where he was. This earns Eric real loyalty from the Wrenby family, not just coin.
-
-**If Pate dies:**
-If Eric kills him in combat without noticing, don't flag it immediately. Let it come out later — perhaps Marta mentions a missing nephew and describes him. This is a consequence of violence without attention, not a gotcha. Handle it with weight if it happens.
-
----
-
-## MYSTERY SEED: The Letter in Ser Aldric's Saddlebags
-
-### The Situation
-Ser Aldric Pyke (Eric's dead master) was not the wandering hedge knight he presented himself as. He was carrying a letter sewn into the lining of the left saddlebag — not in a hidden pocket, but literally stitched into the leather on the interior seam. Finding it requires either thorough searching of the bags (DC 14 Investigation, or the player explicitly says they search thoroughly) or the lining being cut or damaged.
-
-Eric has not found it yet. He may not find it for sessions.
-
-### The Letter
-Unsigned. No date. Written in a neat hand on thin parchment. Contents (DM eyes only):
+### The Letter (DM Eyes Only — Contents)
+Unsigned. No date. Neat hand on thin parchment:
 
 > *"The child lives. Moved from Lys before the fleet came. I placed it with the woman at the address below. She does not know who the father was — only the mother's name. The thing is hidden where I said it would be, in the place you know. Do not write back. If I am dead when you read this, you will know what to do. Burn this after. A. P."*
 
-Below the letter text is a name (a woman's name, in Essos — to be determined when this arc becomes relevant) and a location description that Eric would not immediately understand: a reference to a sept on a river crossing three days south of King's Landing.
+Below: a woman's name (Essos — to be finalised when this arc becomes relevant) and a location description: a sept on a river crossing three days south of King's Landing.
 
 ### What It Means
-Ser Aldric was involved in concealing a bastard child of a minor Targaryen cousin — not a major claimant, but politically sensitive. The "thing hidden" is not the child itself but a document: a legitimisation letter, drafted but never sent, that would give the child a claim. Small, but claims are claims.
+Ser Aldric was involved in concealing a bastard child of a minor Targaryen cousin — not a major claimant, but politically sensitive. The "thing hidden" is not the child but a document: a legitimisation letter, drafted but never sent, that would give the child a claim. Small, but claims are claims.
 
-This is NOT an immediate threat or quest. It is a slow fuse. Other parties may be looking for Ser Aldric. They will eventually find out he's dead. Then they'll want to know what he was carrying.
+Other parties may already be looking for Ser Aldric. They will eventually learn he's dead. Then they'll want to know what he was carrying.
 
 ### Timing
-Do not introduce this arc before Session 3 at the earliest. The first hint should be organic — perhaps someone asks about Aldric specifically, or Eric notices the letter by accident. The DM should not steer toward this; let it emerge from play.
+Do not introduce this arc before Session 3 at the earliest. First hint should be organic — someone asks about Aldric specifically, or Eric finds the letter by accident during routine camp prep. Do not steer toward this. Let it emerge.
 
 ---
 
-## ENCOUNTER BALANCE
+## NPC: BERENGAR (Upgraded Role)
 
-### Session 1 Combat: The Bandit Encounter
+Berengar is proving to be a significant ally. He is perceptive (noticed the letter's significance immediately), trustworthy so far, and carries real military experience from Seagard. He is not just a hired sword.
 
-**Setup:**
-Eric encounters 3 bandits on the road or at the farm. Harwick is present but hangs back — he's watching, not fighting. He wants to see if this knight is serious before committing.
+**What Eric knows:** Seagard veteran, steady in a fight, observant, keeps his mouth shut about what he sees.
 
-**Stat blocks (from SRD):**
-- 3x Bandit: CR 1/8 each. HP 11, AC 12, +3 to hit, 1d6+1 damage (scimitar).
-- This is a winnable fight for a Level 1 Fighter with 10+ HP. Eric can absorb a few hits.
+**What Eric doesn't know:** Berengar lost a brother at Seagard. He carries it quietly — doesn't talk about it, doesn't perform grief. He came away from that war feeling like everything he built with that brother was unfinished. He's been drifting since. He sees something in Eric worth backing — not a lord, not a cause yet, but a man who might become something. It's a private hope, not a calculated play. He's not working against Eric. He's working toward something he hasn't named yet.
 
-**Tactics:**
-The bandits are not suicidal. They'll try to surround Eric if possible. If two go down, the third will attempt to flee. Harwick watches from 30 feet back. If things go badly for Eric, Harwick calls them off ("He's not worth it") and withdraws — he's not trying to get anyone killed over one knight.
+**His awareness:** He knows about the letter. He hasn't pushed on it. He's waiting to see what Eric does. If Eric trusts him with the full story, Berengar will be more useful. If Eric keeps it close, Berengar will respect that too — but he won't forget he knows something is happening.
 
-**Harwick (if Eric presses or the situation escalates to fighting him):**
-Use Bandit Captain stat block (CR 1/2). HP 65, AC 15 (studded leather + shield), multiattack (2 scimitar attacks). He is significantly harder than the regular bandits. DO NOT throw Harwick at Eric in the first session unless Eric does something reckless and the player understands the risk.
+**Loyalty to Eric:** Cautious but genuine. Not yet the kind of bond that survives betrayal, but the kind that can grow into it.
 
-**Escalation triggers:**
-- If Eric charges the camp alone and attacks everyone: Harwick fights. This is Eric's choice and the consequences should land.
-- If Eric scouts, plans, and engages intelligently: reward the preparation with a better position.
+---
+
+## NPC: PATE (Confirmed Background)
+
+Pate is 19. He is from the Wrenby family — Marta Wrenby's nephew, son of her brother Rolf who farms further east. He got swept up after a debt went wrong: Harwick's group caught him alone on the road six weeks ago and gave him a simple choice. He chose to ride with them. He hates it. He hasn't written home because he's ashamed.
+
+He does not know Eric by name or reputation. He is frightened, not criminal. He is currently tied up in the barn (or wherever Eric secured him).
+
+**His mother — correction: his aunt Marta — will want to know about him.** If Pate is returned to the Wrenby family, the emotional payoff is real and earns Eric genuine loyalty, not just coin. Marta had no idea where he was.
+
+**If Pate died in the encounter:** If Eric killed him without recognising who he was, let this surface naturally later. Marta mentions a missing nephew, describes him. Don't flag it immediately. This is a consequence, not a gotcha — handle with weight.
+
+---
+
+## SESSION 2 PLANNING
+
+### Immediate Scene (Session Start)
+Eric wakes in the barn. Dawn. Letter on his chest. Berengar likely nearby or awake already. Pate tied up, waiting to find out what happens to him. The woman is somewhere secured. The four horses are in or near the barn.
+
+### Interrogation Scene
+The woman should feel like a scene, not an info-dump. She's pragmatic. She'll read the room quickly and offer information as currency. Eric doesn't need to threaten her — she'll see the situation clearly. Let her feel like a person, not a tap to turn on.
+
+Key information to surface naturally:
+- Crane's name (she'll offer this early)
+- The Stony Sept arrangement (she'll explain how she was hired)
+- That Eric was specifically named (this is the moment that matters — she saw the paper)
+- That she doesn't know why (genuine, not evasive)
+
+What to do with her after: her fate is Eric's call. Options have real consequences:
+- Release her: she has no particular reason to cause trouble, but she'll talk eventually
+- Keep her: impractical, resource drain
+- Send her on her way with a warning: probably the pragmatic choice
+- Kill her: Eric prayed over the man in the fire. What does he do here? This is a character question, not a mechanics question.
+
+### Pate
+At some point Eric will have to deal with Pate. The natural move is to take him back toward the Wrenby farm or at least confirm who he is. If Eric asks Pate his name and where he's from, the Wrenby connection surfaces immediately — Pate will tell the truth without hesitation.
+
+Marta Wrenby's reaction to getting her nephew back: relief first, then shame on Pate's behalf, then quiet fierce gratitude to Eric.
+
+### Decisions About Crane
+Session 2 is about what Eric does with the letter. The options:
+1. Ride toward Stony Sept / Stoneroost — meet Crane on his terms
+2. Do nothing — wait, watch, let Crane come to him
+3. Investigate Crane first (ask around, talk to travelers)
+4. Use Berengar as a sounding board (recommended by the DM, available but not pushed)
+
+No pressure to decide immediately. Let this breathe.
+
+### Encounter Balance for Session 2
+No planned combat. Session 2 is interrogation, decisions, possibly riding. If combat occurs, it should be incidental — a patrol, a random encounter on the road. Keep it CR 1/4 or 1/2.
+
+Eric is at 200/300 XP. A small encounter (1-2 bandits, a wolf, a random mugger on the road) could push him to Level 2. Don't manufacture it — but if travel happens, a light encounter is appropriate. Level 2 is worth marking with a moment, not just a mechanical note.
 
 ---
 
@@ -152,35 +166,42 @@ Use Bandit Captain stat block (CR 1/2). HP 65, AC 15 (studded leather + shield),
 
 | NPC | Current Loyalty to Eric | Hidden Agenda | Notes |
 |-----|------------------------|---------------|-------|
-| Harwick | Hostile | Survival — pragmatic, will yield or flee | Not cruel, just desperate |
-| Pate | Unknown (Eric doesn't know him yet) | Escape and go home | Connected to Wrenby family |
-| Lord Edwyn Crane | Neutral/potentially interested | Get his bandit problem solved cheaply; gain a useful tool | Pride makes him awkward |
-| Maester Bowen | Neutral | Practical problem-solving; serves Crane but has his own good sense | Useful information source |
-| Aldyn | Wary/hopeful | Handle the bandits; stubborn pride means he'll resent feeling rescued | Will do something stupid if Eric delays |
-| Marta Wrenby | Cautious/watchful | Protect her children; find out what happened to her nephew Pate | Best source of intel if treated respectfully |
+| Berengar | Cautious but genuine | Private hope — rebuilding something after Seagard, lost a brother there; sees something in Eric worth backing | Knows about the letter. Waiting. Not pushing. |
+| Pate (Wrenby) | Frightened/relieved | Go home, never speak of this again | Currently captured. Connected to Marta Wrenby. |
+| The Woman (captured bandit) | Neutral/pragmatic | Stay alive, get out | Will trade information for release. Not loyal to Crane. |
+| Lord Edwyn Crane | Neutral/interested | Find Eric; assess bloodline claim for the Vance dispute; gain a useful tool | Not hostile — clumsy, not cruel. His interest is legal/political. |
+| Maester Bowen | Neutral | Practical problem-solving; serves Crane but has his own good sense | Found the bloodline rumour. Honest about uncertainty. |
+| Aldyn | Wary/relieved | Problem is solved; won't interfere further | Stubborn pride. Will not be effusive with gratitude. |
+| Marta Wrenby | Cautious/watchful | Protect her children; wants to know about Pate | Best source of local intel. Real loyalty available if Pate returned. |
 
 ---
 
-## WORLD EVENTS TICKER (What Happens If Eric Does Nothing)
+## WORLD EVENTS TICKER
 
-- Day 1-2: Bandits continue their routine. No change.
-- Day 3: Aldyn walks to the bandit camp with his billhook. He is beaten badly enough to be bedridden for a week. Harwick lets him go as a warning.
-- Day 5-6: Word of the beaten farmer reaches the village. Marta Wrenby pulls her children in and bars the door.
-- Day 7: Harwick's men, emboldened, push further west toward the tavern road.
-- Day 10+: A traveler is robbed on the main road. This draws wider attention and makes the situation harder to resolve quietly.
+**Bandit thread:** Resolved. Camp burned. Remaining bandits scattered (those who fled). The road east is safer. Word will spread — a hedge knight sorted it.
+
+**Crane thread:**
+- End of Session 1: Crane's deadline (new moon) is ~8 days away. His men have failed to deliver.
+- Day 3-4 from session end: Crane sends a rider to check. Rider finds nothing — camp is ashes.
+- Day 6-7: Crane grows genuinely concerned. Men failed, or something else.
+- Day 9-10: Crane sends someone better, or considers coming himself.
+
+**Pate thread:** Marta Wrenby doesn't know he was with the bandits. She thinks he's still with his father Rolf further east. If Eric doesn't resolve this soon, she'll hear about the bandit camp being cleared and start asking questions.
+
+**Aldric's letter:** Completely unknown to all other parties currently. Whoever was looking for Aldric doesn't know he's dead yet. This is a slow clock — months, not days.
 
 ---
 
 ## ARC STRUCTURE (High Level)
 
-**Arc 1 — The Muddy Wheel Road:** Bandits, farmers, introduction of Crane. Ends when bandit situation is resolved and Eric has a direction (Crane's offer, the road east, or something else).
+**Arc 1 — The Muddy Wheel Road:** RESOLVED. Bandits handled. Crane thread activated. Berengar established. Ends when Eric has a clear direction: Crane, the road, or something else.
 
-**Arc 2 — Crane's Service (if taken):** Political complexity, the Vance dispute, life inside a minor lord's household. Ends when Eric either commits to Crane or breaks from him.
+**Arc 2 — Crane's Service (if taken):** Political complexity, the Vance dispute, life inside a minor lord's household. The bloodline question. Ends when Eric either commits to Crane or breaks from him.
 
-**Arc 3 — The Letter:** The mystery of Ser Aldric's past catches up. Other parties come looking. Eric must decide what to do with what he's holding.
+**Arc 3 — The Letter (Aldric's Secret):** The mystery of Ser Aldric's past catches up. Other parties come looking for what he was carrying. Eric must decide what to do with what he's holding — and what it means for who he is.
 
 **Arc 4+:** To be developed based on player choices.
 
 ---
 
-*Last updated: Session 0 prep. Update after each session via Task agent only.*
+*Last updated: After Session 1. Update after each session via Task agent only.*

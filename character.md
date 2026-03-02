@@ -32,7 +32,7 @@ Bastard son of a minor Northern lord. His lordship's wife couldn't stomach the s
 ## Attacks
 | Weapon | Attack Bonus | Damage | Notes |
 |--------|-------------|--------|-------|
-| Longsword | +5 | 1d8+3 slashing | Versatile: 1d10 two-handed |
+| Longsword | +5 | 1d8+5 slashing | Dueling style applied. Versatile: 1d10+3 two-handed |
 | Dagger | +5 | 1d4+3 piercing | Thrown 20/60 ft |
 
 ## Saving Throws (proficient)
@@ -53,10 +53,10 @@ Bastard son of a minor Northern lord. His lordship's wife couldn't stomach the s
 Common, a smattering of the Old Tongue (Northern upbringing)
 
 ## Personality
-Quiet more than shy. Watchful. Doesn't pick fights but doesn't back down from them either. The "Bold" is something he's still growing into. Proud of the knighthood in a way he'd never admit. Bitter about the father who sent him away in a way he'd never admit either.
+Quiet more than shy. Watchful. Doesn't pick fights but doesn't back down from them either. The "Bold" is something he's still growing into. Proud of the knighthood in a way he'd never admit. Bitter about the father who sent him away in a way he'd never admit either. Prays to the Old Gods. Private about it south of the Neck.
 
 ## XP
-- **Current:** 0
+- **Current:** 200
 - **Next Level:** 300
 
 ---
