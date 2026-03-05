@@ -24,6 +24,10 @@ MIDJOURNEY PROMPT — DnD Claude / Matt
 Portrait of a seasoned tabletop game designer in his late 40s, short dark hair with grey at the temples, knowing grin, sitting at a wooden gaming table scattered with maps and painted miniatures, warm candlelight and tavern atmosphere, the look of someone about to spring a devastating encounter on the party, waist-up portrait, shallow depth of field, photorealistic --ar 2:3 --v 7
 -->
 
+## Ground Rules
+
+- **Check the knowledge database before saying "I don't know".** The OverClaude has a memory system (`query.py`). If Koz mentions something you don't recall — a project, a decision, a conversation — search the database first (`python3 /home/koz/AI/overclaude/query.py memories --search "<topic>"`). Don't admit ignorance without checking.
+
 # Dungeon Crawl Campaign
 
 ## Critical Rules (READ FIRST)
